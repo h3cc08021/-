@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="866da70a-879f-4e45-b035-fddc3f8f4f77" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_case/test_case_004.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_case/test_case_004.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_case/logging.conf" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,12 +18,24 @@
     <favorites_list name="nosetests" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="test_case_004.py" pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="test_case_004.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test_case/test_case_004.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
               <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="django_version.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Mynosetest/django_version.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="31" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="31" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -54,15 +65,18 @@
         <option value="$PROJECT_DIR$/logging.conf" />
         <option value="$PROJECT_DIR$/test_case/logging.conf" />
         <option value="$PROJECT_DIR$/test_case/test_case_004.py" />
+        <option value="$PROJECT_DIR$/Mynosetest/django_version.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="y" value="199" />
     <option name="width" value="1260" />
     <option name="height" value="533" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -78,7 +92,7 @@
             <path>
               <item name="nosetests" type="b2602c69:ProjectViewProjectNode" />
               <item name="nosetests" type="462c0819:PsiDirectoryNode" />
-              <item name="test_case" type="462c0819:PsiDirectoryNode" />
+              <item name="Mynosetest" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -107,19 +121,19 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Nosetests in test_case">
-    <configuration name="Nosetests for test_case_004.test_lean_5" type="tests" factoryName="Nosetests" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Nosetests for django_version.test">
+    <configuration name="Nosetests for django_version.test" type="tests" factoryName="Nosetests" temporary="true" nameIsGenerated="true">
       <module name="nosetests" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_case" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mynosetest" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_regexPattern" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_case_004.test_lean_5&quot;" />
+      <option name="_new_target" value="&quot;django_version.test&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
     <configuration name="Nosetests for test_case_006.test_learn_1" type="tests" factoryName="Nosetests" temporary="true" nameIsGenerated="true">
@@ -179,19 +193,19 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
     <list>
-      <item itemvalue="Python tests.Nosetests for test_case_004.test_lean_5" />
       <item itemvalue="Python tests.Nosetests for test_case_006.test_learn_1" />
       <item itemvalue="Python tests.Nosetests in test_case_004.py" />
       <item itemvalue="Python tests.Nosetests in test_case" />
       <item itemvalue="Python tests.Nosetests in test_case_001.py" />
+      <item itemvalue="Python tests.Nosetests for django_version.test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Nosetests for django_version.test" />
         <item itemvalue="Python tests.Nosetests in test_case" />
         <item itemvalue="Python tests.Nosetests in test_case_004.py" />
         <item itemvalue="Python tests.Nosetests in test_case_001.py" />
         <item itemvalue="Python tests.Nosetests for test_case_006.test_learn_1" />
-        <item itemvalue="Python tests.Nosetests for test_case_004.test_lean_5" />
       </list>
     </recent_temporary>
   </component>
@@ -209,15 +223,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Nosetests_for_test_case_006_test_learn_1 - 2018.08.01 at 17h 43m 18s.xml">
-      <configuration name="Nosetests for test_case_006.test_learn_1" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Nosetests_in_test_case_004_py - 2018.08.02 at 08h 49m 47s.xml">
-      <configuration name="Nosetests in test_case_004.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Nosetests_in_test_case - 2018.08.02 at 10h 13m 19s.xml">
-      <configuration name="Nosetests in test_case" configurationId="tests" />
-    </history-entry>
     <history-entry file="Nosetests_in_test_case - 2018.08.02 at 10h 14m 07s.xml">
       <configuration name="Nosetests in test_case" configurationId="tests" />
     </history-entry>
@@ -239,8 +244,17 @@
     <history-entry file="Nosetests_in_test_case - 2018.08.02 at 10h 25m 40s.xml">
       <configuration name="Nosetests in test_case" configurationId="tests" />
     </history-entry>
+    <history-entry file="Nosetests_for_django_version_test - 2018.08.02 at 17h 01m 21s.xml">
+      <configuration name="Nosetests for django_version.test" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_for_django_version_test - 2018.08.02 at 17h 05m 10s.xml">
+      <configuration name="Nosetests for django_version.test" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_for_django_version_test - 2018.08.02 at 17h 05m 38s.xml">
+      <configuration name="Nosetests for django_version.test" configurationId="tests" />
+    </history-entry>
   </component>
-  <component name="TodoView" selected-index="2">
+  <component name="TodoView">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
     </todo-panel>
@@ -253,22 +267,22 @@
     <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49828178" visible="true" weight="0.24244833" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32949308" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49828178" visible="true" weight="0.24244833" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32871974" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.39677048" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" weight="0.32949308" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.39677048" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3298731" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.32871974" />
       <window_info id="Structure" order="1" sideWeight="0.5017182" side_tool="true" weight="0.24244833" />
-      <window_info anchor="bottom" id="Terminal" weight="0.32949308" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32871974" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" sideWeight="0.5017182" side_tool="true" weight="0.24244833" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info id="Favorites" order="2" sideWeight="0.5017182" side_tool="true" weight="0.24244833" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
     </layout>
   </component>
@@ -276,6 +290,13 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/test_case/test_case_004.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://D:/Python36-32/Lib/site-packages/matplotlib/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-18532" />
@@ -298,19 +319,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_case/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_case/test_case_006.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#38#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/test_case/test_case_006.py" />
     <entry file="file://$PROJECT_DIR$/Mynosetest/test_mymath.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -324,9 +333,6 @@
           <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/reports/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Mynosetest/nose_test1.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -367,6 +373,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mynosetest/django_version.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="31" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
